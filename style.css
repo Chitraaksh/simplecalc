@@ -11,7 +11,14 @@ h2 {
 body {
     background-color: black;
 }
-
+.credit {
+    color: seagreen;
+    position: absolute;
+    font-size: 20px;
+    text-align: right;
+    top: 1%;
+    right: 1%;
+}
 button {
     display: flex;
     align-items: center;
